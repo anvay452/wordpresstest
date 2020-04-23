@@ -6,6 +6,8 @@
  * @package WordPress
  
  new comment
+ 
+ second commit
  */
 
 /**
